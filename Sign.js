@@ -63,3 +63,31 @@ export default class Sign extends Component {
     );
   }
 }
+
+
+
+<style>
+.btn {
+  padding: 8px 51px;
+}
+.MuiInputBase-input {
+  padding: 14px 50px 9px !important;
+}
+.fa-facebook-square:before {
+  padding: 6px 20px;
+}
+.fa-twitter-square:before {
+  padding: 6px 12px;
+}
+.fa-instagram:before {
+  padding: 6px 12px;
+}
+.fa-google-plus-square:before {
+  padding: 6px 20px;
+}
+
+.col-lg-6 {
+  padding: 120px 0px 0px;
+}
+  
+</style>
